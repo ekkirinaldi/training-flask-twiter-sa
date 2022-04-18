@@ -1,1 +1,4 @@
-# training-flask-twiter-sa
+# Sentiment Analysis on Twitter
+
+Python 3
+Flask
